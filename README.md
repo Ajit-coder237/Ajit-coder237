@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Ajit-coder237
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning C,Python and Web Development
-- 💞️ I’m looking to collaborate on Web Development
+- 👀 I’m interested in Full Stack Development..
+- 🌱 I’m currently learning .NET, React Native..
+- 💞️ I’m looking to collaborate on Full Stack Development...
 - 📫 My personal email address pandeyajit233@gmail.com
 
 <!---
